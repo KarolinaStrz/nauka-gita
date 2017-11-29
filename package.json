@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KarolinaStrz/nauka-gita/issues"
   },
-  "homepage": "https://github.com/KarolinaStrz/nauka-gita#readme"
+  "homepage": "https://github.com/KarolinaStrz/nauka-gita#readme",
+  "dependencies": {
+    "browser-sync": "^2.18.13"
+  }
 }
